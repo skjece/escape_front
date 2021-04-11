@@ -1,0 +1,10 @@
+{"received_timestamp":1618152823677,"sent_timestamp":1618152823776,"processingTime":99,"url":"/api/escape/suggest?text=b","level":"info"}
+{"received_timestamp":1618152823797,"sent_timestamp":1618152823802,"processingTime":5,"url":"/api/escape/suggest?text=be","level":"info"}
+{"received_timestamp":1618152823839,"sent_timestamp":1618152823842,"processingTime":3,"url":"/api/escape/suggest?text=ben","level":"info"}
+{"received_timestamp":1618152824038,"sent_timestamp":1618152824046,"processingTime":8,"url":"/api/escape/suggest?text=beng","level":"info"}
+{"received_timestamp":1618152824194,"sent_timestamp":1618152824202,"processingTime":8,"url":"/api/escape/suggest?text=benga","level":"info"}
+{"received_timestamp":1618152825223,"sent_timestamp":1618152825239,"processingTime":16,"url":"/api/escape/getCitiesInSameCountry?selectedCode=BLR","level":"info"}
+{"received_timestamp":1618152874663,"sent_timestamp":1618152874672,"processingTime":9,"url":"/api/escape/suggest?text=be","level":"info"}
+{"received_timestamp":1618152874729,"sent_timestamp":1618152874736,"processingTime":7,"url":"/api/escape/suggest?text=be","level":"info"}
+{"received_timestamp":1618152875023,"sent_timestamp":1618152875054,"processingTime":31,"url":"/api/escape/suggest?text=ben","level":"info"}
+{"received_timestamp":1618152876394,"sent_timestamp":1618152876399,"processingTime":5,"url":"/api/escape/getCitiesInSameCountry?selectedCode=BLR","level":"info"}
